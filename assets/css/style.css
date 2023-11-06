@@ -850,6 +850,44 @@ span.single-timeline-horizontal.spacial-horizontal-line {width: 88px;}
     top:0;
 }/*.isotope-overlay*/
 
+
+/*-------------------------------------
+        9. Team
+--------------------------------------*/
+.team {
+    padding:  50px 0 100px;
+    border:  1px solid #e5ebf2;
+}
+
+.teamContainer {display: flex;flex-wrap: wrap;justify-content: center;flex-direction: row;}
+
+.teamCard {
+     display: flex;
+    flex-direction: column;
+    height: 500px;
+   width:300px;
+   margin: 10px;
+   
+    
+   
+    border-right: 1px solid #b2c1ce;
+ 
+    box-shadow: 0 5px 20px rgba(14,25,80,.30);
+    
+}
+
+.teamTextContainer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 15px;
+}
+
+isotope-overlay*/
+
+
+
 /*-------------------------------------
         10. Clients
 --------------------------------------*/
