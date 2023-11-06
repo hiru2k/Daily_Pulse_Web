@@ -1275,5 +1275,5 @@ header .container {
 }
 
 .navbar-header {
-  margin-left: 30px;
+  margin-left: 30px !important;
 }
