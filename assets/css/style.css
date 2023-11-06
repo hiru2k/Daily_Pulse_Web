@@ -229,8 +229,8 @@ nav.navbar.bootsnav .navbar-toggle i{color: #d92cf9;}
     border-radius: 3px;
     text-transform: capitalize;
     color: #fff;
-    background: #b636ff;
-    border:1px solid #b636ff;
+    /* background: #b636ff;
+    border:1px solid #b636ff; */
     box-shadow: 0 5px 20px rgba(0,0,0,.2);
     -webkit-transition: 0.3s linear; 
     -moz-transition: 0.3s linear; 
@@ -533,7 +533,8 @@ span.single-timeline-horizontal.spacial-horizontal-line {width: 88px;}
 }
 .single-profile {
     position: relative;
-    height: 150px;
+    /* height: 150px; */
+    height: 350px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -852,4 +853,29 @@ span.single-timeline-horizontal.spacial-horizontal-line {width: 88px;}
     0%   {bottom:0px;}
     100%  {bottom:7px;}
 }
+
+
+
+
+
+
+
+/* #single-profile{
+    height: 300px;
+} */
+
+.profile-icon-name-para{
+text-align: center;
+text-align: center;
+    font-size: 12px;
+    color: white;
+
+}
+
+.header-text a {
+background: #6447B7;
+    border:1px solid #6447B7;
+}
 /*========================Thank you=================
+
+
