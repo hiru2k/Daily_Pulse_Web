@@ -1370,3 +1370,7 @@ span.single-timeline-horizontal.spacial-horizontal-line {
 .download-card .button a {
   color: var(--primary-color);
 }
+
+#lit-survey {
+  padding-top: 150px;
+}
