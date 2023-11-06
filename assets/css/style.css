@@ -27,6 +27,7 @@ font-family: 'Poppins', sans-serif;
 * {
   padding: 0;
   margin: 0;
+  --primary-color: #b636ff;
 }
 
 * {
@@ -977,4 +978,53 @@ span.single-timeline-horizontal.spacial-horizontal-line {
 #references p {
   font-size: 13px;
   font-weight: 300;
+}
+
+.download-cards-container {
+  margin-top: 50px;
+}
+
+.download-card {
+  --padding: 20px;
+  box-sizing: border-box;
+  height: 250px;
+  width: 280px;
+  background: #fff;
+  border-radius: 5px;
+  box-shadow: 0 5px 20px rgba(0, 0, 0, 0.2);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  transition: all 0.3s ease-in-out;
+}
+
+.download-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 5px 20px rgba(0, 0, 0, 0.4);
+}
+
+.download-card h3 {
+  font-size: 18px;
+  font-weight: 500;
+  color: #636a82;
+  text-transform: capitalize;
+  margin-bottom: 15px;
+  padding: var(--padding);
+}
+
+.download-card .content {
+  font-size: 15px;
+  padding: 0 var(--padding);
+}
+
+.download-card .button {
+  display: flex;
+  justify-content: space-between;
+  border-top: 1px solid #e5ebf2;
+  padding: var(--padding);
+}
+
+.download-card .button a {
+  color: var(--primary-color);
 }
