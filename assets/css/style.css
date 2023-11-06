@@ -962,3 +962,16 @@ span.single-timeline-horizontal.spacial-horizontal-line {
   }
 }
 /*========================Thank you=================*/
+
+#references {
+  margin: 10px 0px;
+}
+
+#references .single-about-add-info {
+  margin: 0;
+}
+
+#references p {
+  font-size: 13px;
+  font-weight: 300;
+}
