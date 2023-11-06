@@ -731,7 +731,7 @@ span.single-timeline-horizontal.spacial-horizontal-line {
 -------------------------------------*/
 .experience {
   padding: 50px 0 100px;
-  border-top: 1px solid #e5ebf2;
+  border-top: none;
 }
 .experience-content {
   padding-top: 100px;
