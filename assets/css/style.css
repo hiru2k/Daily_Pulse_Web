@@ -1269,3 +1269,11 @@ span.single-timeline-horizontal.spacial-horizontal-line {
 #lit-survey {
   padding-top: 150px;
 }
+
+header .container {
+  width: 100%;
+}
+
+.navbar-header {
+  margin-left: 30px;
+}
