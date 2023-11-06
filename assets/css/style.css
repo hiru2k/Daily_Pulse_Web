@@ -1071,7 +1071,7 @@ span.single-timeline-horizontal.spacial-horizontal-line {
 --------------------------------------*/
 .team {
   padding: 50px 0 100px;
-  border: 1px solid #e5ebf2;
+  border: none;
 }
 
 .teamContainer {
