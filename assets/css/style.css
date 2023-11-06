@@ -285,6 +285,21 @@ nav.navbar.bootsnav .navbar-toggle i{color: #d92cf9;}
     max-width: 500px;
     height: 468px;
 }
+.single-methodology-img{position: relative;box-shadow: 0 5px 20px rgba(14,25,80,.30); margin-top: 200px;}
+.single-methodology-img:before {
+    position:  absolute;
+    content: " ";
+    margin-top: 200px;
+    left:  0;
+    width: 100%;
+    height:  100%;
+   
+}
+.single-methodology-img img {
+    max-width: 500px;
+    height: 468px;
+    margin-top: 100px;
+}
 .about-list-icon{
     display: flex;
     justify-content: center;
@@ -319,6 +334,15 @@ nav.navbar.bootsnav .navbar-toggle i{color: #d92cf9;}
 }
 .about-list-icon ul li a i {
     margin-left: 6px;
+}
+.about-points{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: 30px;
+    color: #636a82;
+    margin-top: 10px;
+    font-weight: 400;
 }
 /*.ab-list-icon */
 
