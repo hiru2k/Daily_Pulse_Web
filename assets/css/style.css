@@ -729,7 +729,8 @@ span.single-timeline-horizontal.spacial-horizontal-line {
 }
 .single-profile {
   position: relative;
-  height: 150px;
+  /* height: 150px; */
+  height: 350px;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -1194,6 +1195,22 @@ span.single-timeline-horizontal.spacial-horizontal-line {
   100% {
     bottom: 7px;
   }
+}
+
+/* #single-profile{
+    height: 300px;
+} */
+
+.profile-icon-name-para {
+  text-align: center;
+  text-align: center;
+  font-size: 12px;
+  color: white;
+}
+
+.header-text a {
+  background: #6447b7;
+  border: 1px solid #6447b7;
 }
 /*========================Thank you=================*/
 
