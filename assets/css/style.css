@@ -289,7 +289,7 @@ nav.navbar.bootsnav .navbar-toggle i {
         4.  About
 --------------------------------------*/
 .about {
-  padding: 50px 0 100px;
+  padding: 150px 0 0px;
 }
 .about-content {
   padding-top: 100px;
@@ -394,7 +394,7 @@ nav.navbar.bootsnav .navbar-toggle i {
 4.  Mthodology
 --------------------------------------*/
 .methodology {
-  padding: 50px 0 100px;
+  padding: 120px 0 0;
 }
 .methodology-content {
   padding-top: 100px;
@@ -624,7 +624,7 @@ span.single-timeline-horizontal.spacial-horizontal-line {
         7. Experience
 -------------------------------------*/
 .experience {
-  padding: 50px 0 100px;
+  padding: 120px 0 100px 0;
   border-top: none;
 }
 .experience-content {
@@ -799,7 +799,7 @@ span.single-timeline-horizontal.spacial-horizontal-line {
         8. Technology
 --------------------------------------*/
 .technology {
-  padding: 50px 0 100px;
+  padding: 120px 0 0;
   border: none;
 }
 
@@ -964,7 +964,7 @@ span.single-timeline-horizontal.spacial-horizontal-line {
         9. Team
 --------------------------------------*/
 .team {
-  padding: 50px 0 100px;
+  padding: 120px 0 0;
   border: none;
 }
 
@@ -1025,7 +1025,7 @@ span.single-timeline-horizontal.spacial-horizontal-line {
 --------------------------------------*/
 .contact {
   background: #f9fbfd;
-  padding: 50px 0 100px;
+  padding: 120px 0 0;
 }
 .single-contact-box {
   padding-top: 100px;
