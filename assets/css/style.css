@@ -984,11 +984,18 @@ span.single-timeline-horizontal.spacial-horizontal-line {
   margin-top: 50px;
 }
 
+.download-cards-row {
+  display: grid;
+  /* justify-content: space-between; */
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  row-gap: 50px;
+}
+
 .download-card {
   --padding: 20px;
   box-sizing: border-box;
   height: 250px;
-  width: 280px;
+  width: 260px;
   background: #fff;
   border-radius: 5px;
   box-shadow: 0 5px 20px rgba(0, 0, 0, 0.2);
@@ -1022,7 +1029,7 @@ span.single-timeline-horizontal.spacial-horizontal-line {
   display: flex;
   justify-content: space-between;
   border-top: 1px solid #e5ebf2;
-  padding: var(--padding);
+  padding: 15px var(--padding);
 }
 
 .download-card .button a {
