@@ -303,11 +303,13 @@ nav.navbar.bootsnav .navbar-toggle i {
   color: #3c4258;
   text-transform: initial;
   line-height: 1.8;
+  text-align: justify;
 }
 .single-about-txt p {
   font-size: 16px;
   color: #999fb3;
   padding: 35px 0 43px;
+  text-align: justify;
   border-bottom: 1px solid #999fb3;
 }
 .single-about-txt-ls p {
@@ -325,6 +327,7 @@ nav.navbar.bootsnav .navbar-toggle i {
   font-weight: 300;
   border: 0;
   padding: 0;
+  text-align: justify;
   margin-top: 3px;
 }
 /*.single-about-txt*/
